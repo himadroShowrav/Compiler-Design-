@@ -2,7 +2,6 @@
 
 int main (){
     int arr[100];
-    int parr[100];
     int n;
 
     printf("The number of elements: ");
